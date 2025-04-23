@@ -1,3 +1,6 @@
+## [0.2.0] - 2025-04-23
+- Updated ActiveSupport dependency to support Rails 8 compatibility ('>= 7.0', '< 9.0')
+
 ## [0.1.3] - 2024-05-22
 - Bumped OpenAI client version. 
 - Laying the work for more modes. See https://python.useinstructor.com/concepts/patching/ for more information.
